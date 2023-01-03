@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=YeonHoit'sGithub&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=YeonHoit's%20Github&fontSize=50&animation=fadeIn" />
