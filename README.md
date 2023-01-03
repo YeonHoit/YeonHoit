@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/yeon_hoit__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 	<a href="mailto:pdbx12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdbx12@gmail.com" /></a>
 </div>
+<br>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonHoit&hide=C%2B%2B,C,C%23,HLSL,ASP.NET,ShaderLab" />
+</div>
