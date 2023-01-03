@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=YeonHoit's%20Github&fontSize=50&animation=fadeIn" />
 <div align="center">
-	<text>📚Skills📚</text>
+	<text style="font-size:10px;">📚Skills📚</text>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
