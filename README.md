@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonHoit" /> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonHoit&layout=compact" /> 
 </div>
