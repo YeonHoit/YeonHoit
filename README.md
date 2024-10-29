@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 	<h3>📚Skills📚</h3>
 </div>
 <div align="center">
+	<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
